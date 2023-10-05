@@ -11,3 +11,7 @@
 -We used Java, JSP, SQL and CSS to create models, publish views, and create controllers.
 
 -In the source directory you'll find the java/Critter directory which contains files for database connection, controllers, and models. 
+
+-In the Web directory you'll find JSP web pages.
+
+Thank you for your interest!
