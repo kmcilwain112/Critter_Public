@@ -8,4 +8,6 @@
 
 -We created a MySQL database populated with users, tweets, and followers. 
 
--
+-We used Java, JSP, SQL and CSS to create models, publish views, and create controllers.
+
+-In the source directory you'll find the java/Critter directory which contains files for database connection, controllers, and models. 
