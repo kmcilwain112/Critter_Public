@@ -6,7 +6,7 @@
 
 -I chose to create Critter. A halloween themed twitter clone. 
 
--We created a MySQL database populated with users, tweets, and followers. 
+-We created a MySQL database using PHP Myadmin, Tomcat,and Apache, populated with users, tweets, and followers. 
 
 -We used Java, JSP, SQL and CSS to create models, publish views, and create controllers.
 
