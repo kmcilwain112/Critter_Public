@@ -1,0 +1,38 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Apr 19, 2023, 12:24:10 PM
+    Author     : kmcil
+*/
+#logo {
+    border-radius: 50%;
+}
+body,html{
+    background-color: black;
+    color: white;
+}
+div.card-body{
+    background-color: black;
+    color: white;
+}
+input.btn{
+    background-color: orangered;
+    color: white;
+}
+h1{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 20%; 
+}
+img{
+   display: block;
+   margin-left: 510px;
+   margin-right: auto;
+   width: 20%; 
+}
+.card{
+    border-color: orangered;
+}

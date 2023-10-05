@@ -1,0 +1,120 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Apr 19, 2023, 12:25:02 PM
+    Author     : kmcil
+*/
+#logo {
+    border-radius: 50%;
+    width:20%;
+    display: block;
+    margin-left: 510px;
+    margin-right: auto;
+}
+.homebtn{
+ width: 10%;   
+}
+#follow{
+    background: orangered;
+    color:white;
+    border: white;
+}
+#unfollow{
+    background: orangered;
+    color:white;
+    border: white;
+}
+button:focus{
+    outline-color: orangered;
+}
+
+.tavi{
+   
+    border: 1px solid orange;    
+    border-left: none;
+    border-top: none;
+    border-radius:6px;
+}
+td{
+   padding: 10px;
+   text-align: center;
+}
+nav#Sidebar{
+    border-right: 1px solid orangered;
+    border-bottom: 1px solid orange;
+    border-radius: 6px;
+}
+table{
+    border-right: 1px solid orangered;
+    border-left: 1px solid #FF6633;
+    border-bottom: 1px solid orange;
+    border-top: 1px solid red;
+    border-radius:6px;
+    border-collapse:separate;
+    width: 100%;
+}
+.trow{
+    border-top: 1px solid #FF6633;
+    
+}
+#avi{
+   
+   border-radius: 50%;
+  
+}
+body,html{
+    background-color: black;
+    color: white;
+}
+h1{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 20%; 
+}
+input.btn{
+    background-color: orangered;
+    color: white;
+}
+#useravi{
+    border-radius: 50%;
+}
+.wrapper{ 
+    
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+    margin-left: 25px;    
+    padding: 25px;
+    margin-right: 25px;
+    border-top: 1px solid #FF6633;
+}
+#sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    min-height: 100vh;
+    
+}
+form{
+    padding: 25px;
+}
+#sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+}
+.card{
+    background-color: black;
+    color: white;
+}
+div.card-body{
+    background-color: black;
+    color: white;
+}
+#content{
+    width:100%;
+    
+}
+
